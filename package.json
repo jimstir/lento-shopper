@@ -1,0 +1,16 @@
+{
+  "name": "hackatona",
+  "version": "1.0.0",
+  "description": "Summary:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lit-protocol/auth-helpers": "^6.11.0",
+    "@lit-protocol/constants": "^6.11.0",
+    "@lit-protocol/contracts-sdk": "^6.11.0"
+  }
+}
